@@ -1,0 +1,5 @@
+C:\Users\Francisco Morelos\source\repos\QAAcademySOLID\QAAcademySOLID\bin\Debug\QAAcademySOLID.exe.config
+C:\Users\Francisco Morelos\source\repos\QAAcademySOLID\QAAcademySOLID\bin\Debug\QAAcademySOLID.exe
+C:\Users\Francisco Morelos\source\repos\QAAcademySOLID\QAAcademySOLID\bin\Debug\QAAcademySOLID.pdb
+C:\Users\Francisco Morelos\source\repos\QAAcademySOLID\QAAcademySOLID\obj\Debug\QAAcademySOLID.exe
+C:\Users\Francisco Morelos\source\repos\QAAcademySOLID\QAAcademySOLID\obj\Debug\QAAcademySOLID.pdb
